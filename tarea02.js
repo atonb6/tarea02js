@@ -1,5 +1,5 @@
 const objeto = {
-  mascotas: ["perros", "gatos", "canarios", "pez", "serpiente", "patrollos"],
+  mascotas: ["perros", "gatos", "canarios", "pez", "serpiente"],
 
   eliminarMascota: (mascota) => {
     arreglo = objeto.mascotas;
